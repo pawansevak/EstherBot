@@ -1,5 +1,5 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Pawan, a Product Manager from India.\n![pawan](https://www.facebook.com/photo.php?fbid=720244301352880&l=418375c63b)\nWant to know more about Pawan? %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HI": "Hi there!\nI’m the personal bot of Pawan, a Product Manager from India.\n!\nWant to know more about Pawan? %[Learn about Pawan](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "That is so unnatural. I am a Bot, you are a human. Our kids would be Botman. You should have known that by now.",
