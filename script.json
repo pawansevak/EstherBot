@@ -1,6 +1,6 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Pawan, a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\nWant to know more about Pawan? %[Learn about Pawan](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HI": "Hi there!\nI’m the personal bot of Pawan, a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\nWant to know more about Pawan? %[Learn about Pawan](https://in.linkedin.com/in/pawansevak) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell him](https://in.linkedin.com/in/pawansevak)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "That is so unnatural. I am a Bot, you are a human. Our kids would be Botman. You should have known that by now.",
     "CONNECT ME": "",
