@@ -1,5 +1,5 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Pawan, a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\nWant to know more about Pawan? %[Learn about Pawan](https://in.linkedin.com/in/pawansevak) %[One random fact!](postback:random_fact)",
+    "HI": "Pawan is a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\nWant to know more about Pawan? %[Learn about Pawan](https://in.linkedin.com/in/pawansevak) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Pawan that you're talking to his bot? %[Tell him](https://in.linkedin.com/in/pawansevak)",
     "PAWAN": "Let's call Pawan so he knows you're chatting with his bot. %[Tell Pawan](https://in.linkedin.com/in/pawansevak)",
     "I LOVE YOU": "That is so unnatural. I am a Bot, you are a human. Our kids would be Botman.\n After this joke, my value would be like \n![baby](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/giphy%20(2).gif)",
