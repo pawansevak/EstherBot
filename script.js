@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi there!\nI’m the personal bot of Pawan, a Product Manager from India. \n So you want to learn about my maker, Pawan? Just say Yes to get started.')
+            return bot.say('Hi there!\nI’m the personal bot of Pawan, a Product Manager from India. \n So you want to learn about my maker, Pawan? %[Yes](postback:random_fact) %[No](postback:random_fact)')
                 .then(() => 'speak');
         }
     },
