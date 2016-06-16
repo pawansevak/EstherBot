@@ -1,12 +1,13 @@
 {
-    "YES": "Pawan is a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\n How do you want to know more about Pawan? %[Know about Pawan using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak) %[Connect with Pawan](postback:random_fact) ",
+    "YES": "Pawan is a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\n How do you want to know more about Pawan? \n %[Using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak) %[Connect with Pawan](postback:random_fact) ",
     "HELLO": "Hey, I'm Pawan Bot! I am still a young bot, learning new things every day. How do you want to know more about Pawan? %[Know about Pawan using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak) %[Connect with Pawan](postback:random_fact)",
     "HI": "Hi, I'm Pawan Bot! I am still a young bot, learning new things every day. How do you want to know more about Pawan? %[Know about Pawan using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak) %[Connect with Pawan](postback:random_fact)",
     "CONNECT WITH PAWAN": "Pawan seems to be busy right now. He will get back to you in 24 hours. Till then, you can %[Know about Pawan using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak)",
     "I LOVE YOU": "That is so unnatural. I am a Bot, you are a human. Our kids would be Botman.\n After this joke, my value would be like \n![baby](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/giphy%20(2).gif)",
     "EDUCATION": "Pawan completed his BTech from Dhirubhai Ambani Institute of Information and Communication Technology(DA-IICT), Gandhinagar.\nWant to know more about DAIICT?%[About DA-IICT](https://en.wikipedia.org/wiki/Dhirubhai_Ambani_Institute_of_Information_and_Communication_Technology)",
     "EXPERIENCE": "Pawan has worked at Qualcomm as a Software Engineer for a year, at DAIICT as a Teaching Assistant for a year (Part-time) and at HandyTrain as a Product Manager for 7 months.",
-    "KNOW ABOUT PAWAN USING PAWANBOT":" What do you want to know about Pawan? %[Education](postback:random_fact) %[Products he worked on](postback:random_fact) %[Additional Projects](postback:random_fact) %[Volunteer experience](postback:random_fact) ",
+    "USING PAWANBOT":" What do you want to know about Pawan? %[Education](postback:random_fact) %[Product Experience](postback:random_fact) %[Additional Projects](postback:random_fact) %[Volunteer experience](postback:random_fact) ",
+    "KNOW ABOUT PAWAN USING PAWANBOT":" What do you want to know about Pawan? %[Education](postback:random_fact) %[Product Experience](postback:random_fact) %[Additional Projects](postback:random_fact) %[Volunteer experience](postback:random_fact) ",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, PawanBot is back."
 }
