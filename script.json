@@ -2,6 +2,7 @@
     "PAWAN": "Pawan is a Product Manager from India.\n![esther](https://raw.githubusercontent.com/pawansevak/EstherBot/master/img/6446_720244301352880_7102297803903660183_n.jpg)\n How do you want to know more about Pawan? \n %[Using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak) %[Connect with Pawan](postback:random_fact) ",
     "HELLO": "Hey, I'm Pawan Bot! I am still a young bot, learning new things every day. Type PAWAN to know more about Pawan Sevak",
     "HI": "Hi, I'm Pawan Bot! I am still a young bot, learning new things every day. Type PAWAN to know more about Pawan Sevak",
+    "HI PAWAN": "Hi, I'm Pawan Bot! I am still a young bot, learning new things every day. Type PAWAN to know more about Pawan Sevak",
     "HI PAWANBOT": "Hi, I'm Pawan Bot! I am still a young bot, learning new things every day. Type PAWAN to know more about Pawan Sevak",
     "HI PAWAN BOT": "Hi, I'm Pawan Bot! I am still a young bot, learning new things every day. Type PAWAN to know more about Pawan Sevak",
     "HELLO PAWAN": "Hello, I'm Pawan Bot! I am still a young bot, learning new things every day. Type PAWAN to know more about Pawan Sevak",
