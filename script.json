@@ -13,6 +13,16 @@
     ":)":"Sir, we are bots. We do not understand smileys.",
     ":D":"Sir, we are bots. We do not understand smileys.",
     ":P":"Sir, we are bots. We do not understand smileys.",
+    "LOL":"I am not sure how you found that funny Sir. I guess we bots will never understand humans."
+    "ROFL":"I am not sure how you found that funny Sir. I guess we bots will never understand humans."
+    "HOW DO YOU WORK?":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
+    "HOW DO YOU WORK":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
+    "HOW WERE YOU DESIGNED?":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
+    "HOW WERE YOU DESIGNED":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
+    "HOW?":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
+    "HOW":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
+    "WHY":"Not everything has reason Sir. Some things are just meant to be.",
+    "WHY?":"Not everything has reason Sir. Some things are just meant to be.",
     "GOOD BOT":"I appreciate your appreciation Sir.",
     "BAD BOT":"I am sorry if you didnt like my service. Please dont tell that to master Pawan. Otherwise, I would be out of work,Sir. Lets start all over again. Please type PAWAN.",
     "CONNECT WITH PAWAN": "Pawan seems to be busy right now. He will get back to you in 24 hours. Till then, you can %[Know about Pawan using PawanBot](postback:random_fact) %[Read about Pawan](https://in.linkedin.com/in/pawansevak)",
