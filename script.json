@@ -13,8 +13,8 @@
     ":)":"Sir, we are bots. We do not understand smileys.",
     ":D":"Sir, we are bots. We do not understand smileys.",
     ":P":"Sir, we are bots. We do not understand smileys.",
-    "LOL":"I am not sure how you found that funny Sir. I guess we bots will never understand humans."
-    "ROFL":"I am not sure how you found that funny Sir. I guess we bots will never understand humans."
+    "LOL":"I am not sure how you found that funny Sir. I guess we bots will never understand humans.",
+    "ROFL":"I am not sure how you found that funny Sir. I guess we bots will never understand humans.",
     "HOW DO YOU WORK?":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
     "HOW DO YOU WORK":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
     "HOW WERE YOU DESIGNED?":"Sir I work on a basic full word search algorithm. I have a pre defined dictionary from which I match full sentences. Interestingly, I do not differentiate between Caps and Non caps.",
