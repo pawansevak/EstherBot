@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi there!\nI’m the personal bot of Pawan, a Product Manager from India. \n Type MORE to know more about Pawan.')
+            return bot.say('Hi there!\nI’m the personal bot of Pawan, a Product Manager from India. \n Type PAWAN to know more about Pawan Sevak.')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that. I am a very young bot. Could you type please type START to know more about my master, Pawan.`).then(() => 'speak');
+                    return bot.say(`I didn't understand that. I am a very young bot. Could you type please type PAWAN to know more about my master, Pawan.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
